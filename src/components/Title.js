@@ -2,7 +2,7 @@ import React from 'react';
 
 const Title = props => (
 	<div>
-		<h1>{props.title}</h1>
+		<h1>To do: {props.title}</h1>
 	</div>
 );
 
